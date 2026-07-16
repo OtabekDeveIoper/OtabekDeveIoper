@@ -29,14 +29,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/OtabekDeveIoper">
-    <img src="https://img.shields.io/badge/GitHub-OtabekDeveIoper-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=OtabekDeveIoper&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/OtabekDeveIoper?style=for-the-badge&color=4F46E5&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/OtabekDeveIoper?affiliations=OWNER&style=for-the-badge&color=7C3AED&label=STARS" alt="Stars" />
-</p>
 
 ---
 
